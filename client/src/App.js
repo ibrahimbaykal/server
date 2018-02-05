@@ -14,7 +14,7 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
-        <a href="/auth/google">Sign In With Google</a>
+        <a href="/auth/google">Sign In With Google (just link)</a>
       </div>
     );
   }
